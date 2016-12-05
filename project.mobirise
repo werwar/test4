@@ -10,7 +10,9 @@
     "versionFirst": "3.9.2",
     "uniqCompNum": 6,
     "versionPublish": "3.9.2",
-    "publishType": "github"
+    "publishType": "github",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
