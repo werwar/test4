@@ -86,7 +86,7 @@
             }
           },
           "headerAlign": "left",
-          "title": "TEST HEADING",
+          "title": "TEST HEADING<br>AND THEN<br>SOME<br>MORE&nbsp;<br>TEXT<br>TO<br>SEE<br>HOW<br>TO<br>FILL<br>A<br>PAGE",
           "meta": "Sub Heading",
           "text": "<p>And here is some regular text, blah de blah.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
